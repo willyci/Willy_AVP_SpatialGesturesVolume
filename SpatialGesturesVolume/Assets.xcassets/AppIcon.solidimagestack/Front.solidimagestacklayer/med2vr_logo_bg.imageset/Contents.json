@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "med2vr_logo_bg.PNG",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "med2vr_logo_bg 1.PNG",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "med2vr_logo_bg 2.PNG",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

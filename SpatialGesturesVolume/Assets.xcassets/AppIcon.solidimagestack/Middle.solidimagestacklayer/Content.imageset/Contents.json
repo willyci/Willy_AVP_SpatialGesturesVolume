@@ -1,0 +1,13 @@
+{
+  "images" : [
+    {
+      "filename" : "med2vr_logo_bg.PNG",
+      "idiom" : "vision",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
